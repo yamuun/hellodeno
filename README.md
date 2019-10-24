@@ -33,5 +33,5 @@ This is Funlly deno Icon Callactor
 # Usage
 
 ```
-deno install hellodeno .\hello.ts --allow-env --allow-read
+deno install hellodeno https://raw.githubusercontent.com/yamuun/hellodeno/master/mod.ts --allow-env --allow-read
 ```
