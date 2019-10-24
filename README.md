@@ -1,6 +1,8 @@
 # hellodeno
 Do you like [deno](https://deno.land/) ? 💛  
-This is Funlly deno Icon Callactor
+This is Funlly deno Icon Caractor 
+Funny joke commands
+
 
 ``` 
                    ............
