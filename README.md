@@ -30,8 +30,13 @@ This is Funlly deno Icon Callactor
                    ?^^^^^^^^^^=`
 ```
 
-# Usage
+# Install
 
 ```
 deno install hellodeno https://raw.githubusercontent.com/yamuun/hellodeno/master/mod.ts --allow-env --allow-read
+```
+
+# Usage
+```
+$ hellodeno
 ```
