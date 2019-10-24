@@ -12,7 +12,7 @@ function main() {
 
 
   if (h || help) {
-    console.log("Usage: hello");
+    console.log("Usage: hellodeno");
     return;
     }
 
