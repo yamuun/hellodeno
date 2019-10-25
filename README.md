@@ -36,7 +36,7 @@ Funny joke commands
 # Install
 
 ```
-deno install hellodeno https://raw.githubusercontent.com/yamuun/hellodeno/master/mod.ts --allow-env --allow-read
+deno install hellodeno https://raw.githubusercontent.com/yamuun/hellodeno/master/mod.ts
 ```
 
 # Usage
